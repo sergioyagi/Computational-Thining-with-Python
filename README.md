@@ -94,7 +94,3 @@ A solução foi desenvolvida utilizando um sensor LDR conectado a um Arduino, qu
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
