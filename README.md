@@ -78,19 +78,13 @@ A solução foi desenvolvida utilizando um sensor LDR conectado a um Arduino, qu
 
 ---
 
-## 🚧 Possíveis Melhorias
+## 👨‍💻 Autores
 
-- Adicionar sensor de temperatura e umidade (ex: DHT11 ou DHT22).
-- Enviar os dados via Wi-Fi usando ESP8266 ou ESP32.
-- Implementar dashboard web ou integração com banco de dados.
-- Alimentação por bateria com sistema de economia de energia.
-
----
-
-## 👨‍💻 Autor
-
-**Sérgio Yagi (Seisho)**  
-[GitHub](https://github.com/sergioyagi) | [LinkedIn](https://www.linkedin.com/in/seisho-sergio-y-691207171/)
+- **Seisho Sérgio De Laia Yagi | RM: 562515 | [GitHub](https://github.com/sergioyagi)**
+- **Caio Marques Lins | RM: 559805 | [GitHub](https://github.com/loffcm)**
+- **Murilo Gonzalez Bez Chleba | RM: 556199 | [GitHub](https://github.com/MuriloBezChleba)**
+- **Pedro Alves Simão | RM: 564065 | [GitHub](https://github.com/Pedro-Simao-Maker)**
+- **Bernardo Lozório Gomes Y Gomes | RM: 564943 [GitHub](https://github.com/bernard0g)**
 
 ---
 
