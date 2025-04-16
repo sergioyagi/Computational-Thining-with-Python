@@ -20,7 +20,7 @@ void loop()
   int luminosidade = analogRead(A0);  // Lê o valor analógico do sensor LDR (varia de 0 a 1023 conforme a luz ambiente)
   Serial.println(luminosidade);       // Imprime o valor lido no Monitor Serial (útil para diagnóstico e calibração)
 
-  delay(500);                         // Aguarda 500 milissegundos antes de fazer a próxima leitura
+  // delay(500);                         // Aguarda 500 milissegundos antes de fazer a próxima leitura
  
   if (luminosidade < 500) {
     digitalWrite(ledVerde, HIGH);     // Acende o LED verde
@@ -35,7 +35,7 @@ void loop()
     digitalWrite(ledAmarelo, HIGH);   // Acende o LED amarelo
     digitalWrite(ledVermelho, LOW);   // Garante que o LED vermelho está apagado
     digitalWrite(buzzer, HIGH);       // Ativa o buzzer
-    delay(3000);                      // Mantém o buzzer ligado por 3 segundos
+    // delay(3000);                      // Mantém o buzzer ligado por 3 segundos
     digitalWrite(buzzer, LOW);        // Desliga o buzzer após os 3 segundos
   }
 
