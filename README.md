@@ -58,6 +58,8 @@ A solução foi desenvolvida utilizando um sensor LDR conectado a um Arduino, qu
 
 📽️ [Link para vídeo explicativo do projeto no YouTube ou Google Drive](https://youtu.be/OkLkFdUQTN8)
 
+![Circuito completo](main/imagem.png)
+
 ---
 
 ## 🛠️ Como Reproduzir
