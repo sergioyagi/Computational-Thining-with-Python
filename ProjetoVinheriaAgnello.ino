@@ -22,7 +22,7 @@ void loop()
 
   delay(500);                         // Aguarda 500 milissegundos antes de fazer a próxima leitura
  
-  if (luminosidade < 920) {
+  if (luminosidade < 500) {
     digitalWrite(ledVerde, HIGH);     // Acende o LED verde
     digitalWrite(ledAmarelo, LOW);    // Garante que o LED amarelo está apagado
     digitalWrite(ledVermelho, LOW);   // Garante que o LED vermelho está apagado
@@ -30,7 +30,7 @@ void loop()
   }
 
   
-   else if (luminosidade >= 920 && luminosidade < 950) {
+   else if (luminosidade >= 510 && luminosidade < 650) {
     digitalWrite(ledVerde, LOW);      // Apaga o LED verde
     digitalWrite(ledAmarelo, HIGH);   // Acende o LED amarelo
     digitalWrite(ledVermelho, LOW);   // Garante que o LED vermelho está apagado
