@@ -51,7 +51,6 @@ A solução foi desenvolvida utilizando um sensor LDR conectado a um Arduino, qu
 
 > O código está disponível no arquivo `monitoramento_luminosidade.ino`.  
 > Comentários explicativos estão incluídos em cada trecho do código para facilitar a compreensão.
--- [Projeto no Tinkercad](https://www.tinkercad.com/things/iJeQ5Kf2WLZ-projeto-vinheria-agnello-monitoramento-de-luminosidade?sharecode=4Y4KSU1p4C9rEcj6dODHFztzy4WUz27XdVN2U-gBZsY)
 
 ---
 
@@ -71,6 +70,7 @@ A solução foi desenvolvida utilizando um sensor LDR conectado a um Arduino, qu
 4. Abra o **Monitor Serial** para acompanhar os valores da luminosidade.
 5. Faça testes com diferentes intensidades de luz.
 
+[Projeto no Tinkercad](https://www.tinkercad.com/things/iJeQ5Kf2WLZ-projeto-vinheria-agnello-monitoramento-de-luminosidade?sharecode=4Y4KSU1p4C9rEcj6dODHFztzy4WUz27XdVN2U-gBZsY)
 ---
 
 ## 🧪 Testes Realizados
